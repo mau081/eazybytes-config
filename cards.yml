@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Mau Gon - Developer"
+    email: "mau@eazybank.com"
+  onCallSupport:
+    - (777) 777-4321
+    - (888) 325-5431
+
+

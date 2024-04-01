@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "Mau Gon - Developer"
+    email: "mau@eazybank.com"
+  onCallSupport:
+    - (222) 222-4587
+    - (111) 568-8305

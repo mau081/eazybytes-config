@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Mau Gon - Product Owner"
+    email: "mau@eazybank.com"
+  onCallSupport:
+    - (354) 293-9284
+    - (632) 302-4830
